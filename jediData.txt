@@ -1,0 +1,3 @@
+1#Obi Wan Kenobi#Blue#Stewjoni#30#M#Master#Negotiator#Qui Gon Jinn# Anakin Skywalker
+2#Qui Gon Jinn#Green#Coruscant#45#M#Master#Unkown#Dooku#Obi Wan Kenobi
+3#Anakin Skywalker#Blue#Tattoine#25#M#Knight#Hero With No Fear#Obi Wan Kenobi# Ahsoka Tano
