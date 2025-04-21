@@ -1,3 +1,37 @@
-1#Obi Wan Kenobi#Blue#Stewjoni#30#M#Master#Negotiator#Qui Gon Jinn# Anakin Skywalker
-2#Qui Gon Jinn#Green#Coruscant#45#M#Master#Unkown#Dooku#Obi Wan Kenobi
-3#Anakin Skywalker#Blue#Tattoine#25#M#Knight#Hero With No Fear#Obi Wan Kenobi# Ahsoka Tano
+1#Obi Wan Kenobi#Blue#Stewjon#57 BBY#M#Master#Negotiator#Qui Gon Jinn# Anakin Skywalker and Luke Skywalker#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVlYwEk3W9Ofwe0f8ki2tOyu3oOa2C8hiNw&s 
+2#Qui Gon Jinn#Green#Coruscant#80 BBY#M#Master#Jinn#Dooku#Obi Wan Kenobi#https://static.wikia.nocookie.net/swfanon/images/c/c0/Quigonheadshot.jpg/revision/latest?cb=20070217204248
+3#Anakin Skywalker#Blue#Tattoine#41.9 BBY#M#Knight#Hero With No Fear#Obi Wan Kenobi# Ahsoka Tano#https://comicvine.gamespot.com/a/uploads/original/11153/111534285/8754664-ani.jpg 
+4#Mace Windu#Purple#Haruun Kal#72.5 BBY#M#Master#The Shatterpoint#Cyslin Myr#Depa Billaba#https://static.wikia.nocookie.net/starwars/images/2/27/MaceWindu_-WoSW.png/revision/latest?cb=20220914013358
+5#Kanan Jarrus#Green#Coruscant#57 BBY#M#Knight#Caleb Dume#Depa Billaba#Ezra Bridger#https://static.wikia.nocookie.net/star-wars-rebels/images/3/3d/Dc3rsqq-6cdb1c35-41a8-4cce-9c81-0c6d6ff042a2.png/revision/latest?cb=20191217212107
+6#Ahsoka Tano#White or Green#Shili#36.5 BBY#F#Knight#Snips#Anakin Skywalker#None# https://static.wikia.nocookie.net/starwars/images/2/27/Ahsoka-Tano-AG-2023.png/revision/latest?cb=20231009063143
+7#Quinlan Vos#Green#Kiffu#57 BBY#M#Knight#The Outlander#Tholme#Aayla Secura# https://static.wikia.nocookie.net/starwars/images/e/e3/Quinlan_Vos.png/revision/latest?cb=20150602012430
+8#Shaak Ti#Blue#Shili#Unknown#F#Master#The Togruta Sage#None#None#https://static.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png/revision/latest?cb=20220910224853
+9#Ezra Bridger#Blue to Green#Lothal#19 BBY#M#Padawan#The Prodigy#Kanan Jarrus#None#https://static.wikia.nocookie.net/starwars/images/a/ad/Ezra_Bridger_character_poster.png/revision/latest?cb=20250114174805
+10#Leia Organa#Blue#Alderaan#19 BBY#F#Padawan#The Princess Jedi#Luke Skywalker#None#https://static.wikia.nocookie.net/starwars/images/9/9b/Princessleiaheadwithgun.jpg/revision/latest?cb=20240522043127
+11#Grogu#Green#Unknown#41 BBY#M#Youngling#The Child#Kelleran Beq#None#https://static.wikia.nocookie.net/starwars/images/4/43/TheChild-Fathead.png/revision/latest?cb=20201031231040
+12#Cal Kestis#Blue#Bracca#19 BBY#M#Knight#The Survivor#Jaro Tapal#None#https://static.wikia.nocookie.net/starwars/images/b/b0/9BBY_Cal.png/revision/latest?cb=20250109160127
+13#Luminara Unduli#Green#Mirial#58 BBY#F#Master#The Mirialan Sage#None#Barriss Offee#https://static.wikia.nocookie.net/starwars/images/9/91/LuminaraUnduli-Encyclopedia.png/revision/latest?cb=20180206232118
+14#Barriss Offee#Blue#Mirial#40 BBY#F#Knight#The Healer#Luminara Unduli#None#https://static.wikia.nocookie.net/starwars/images/a/a4/BarrissOffee-OP.png/revision/latest?cb=20211214033336
+15#Plo Koon#Blue#Dorin#82 BBY#M#Master#The Kel Dor Guardian#Tyvokka#Bultar Swan#https://static.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png/revision/latest?cb=20211219002811
+16#Kit Fisto#Green#Glee Anselm#59 BBY#M#Master#The Nautolan Duelist#None#Nahdar Vebb#https://static.wikia.nocookie.net/starwars/images/2/25/KitFisto-USWNE.png/revision/latest?cb=20241201061011
+17#Adi Gallia#Blue#Tholoth#57 BBY#F#Master#The Tholothian Guardian#None#None#https://static.wikia.nocookie.net/starwars/images/2/25/KitFisto-USWNE.png/revision/latest?cb=20241201061011
+18#Depa Billaba#Purple#Kiffu#58 BBY#F#Master#The Kiffar Strategist#Mace Windu#Kanan Jarrus#https://static.wikia.nocookie.net/starwars/images/a/aa/Depa-32BBY.jpg/revision/latest?cb=20071002165201
+19#Aayla Secura#Blue#Ryloth#48 BBY#F#Knight#The Twi'lek Sentinel#Quinlan Vos#None#https://static.wikia.nocookie.net/starwars/images/5/59/AaylaSecura-SWYBYNE.png/revision/latest?cb=20240313002805
+20#Jocasta Nu#Blue#Coruscant#Unknown#F#Archivist#The Jedi Chief Librarian#None#None#https://static.wikia.nocookie.net/starwars/images/1/17/JocastaNu-Db.png/revision/latest?cb=20230812014243  
+21#Ki-Adi-Mundi#Blue#Cerea#92 BBY#M#Master#The Cerean Councilor#Yoda#None#https://static.wikia.nocookie.net/starwars/images/6/6d/KiAdiMundi-SWCT.png/revision/latest?cb=20200807031541
+22#Eeth Koth#Green#Iridonia#Unknown#M#Master#The Iridonian Defender#None#None#https://static.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png/revision/latest?cb=20240210054050
+23#Saesee Tiin#Green#Iktotch#Unknown#M#Master#The Iktotchi Strategist#Omo Bourri#None#https://static.wikia.nocookie.net/starwars/images/a/a3/SaeseeTiin-SWCT.png/revision/latest?cb=20200807024726
+24# Darth Maul#Red#Dathomir#54 BBY#M#Sith Lord#The Phantom Menace#Darth Sidious#None#https://static.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png/revision/latest?cb=20140209162228
+25# Darth Sidious#Red#Naboo#82 BBY#M#Sith Lord#The Emperor#Darth Plagueis#Darth Maul and Darth Vader and Count Dooku#https://static.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png/revision/latest?cb=20250408053451
+26# Darth Tyranus#Red#Serenno#102 BBY#M#Sith Lord#The Separatist Leader#Darth Sidious and Yoda#Qui Gon Jinn#https://static.wikia.nocookie.net/starwars/images/5/5f/Dooku-SWBC61.png/revision/latest?cb=20241118020049
+27# Darth Bane#Red#Apatros#1026 BBY#M#Sith Lord#The Rule of Two#None#Darth Zannah#https://static.wikia.nocookie.net/starwars/images/5/5e/DarthBane-GoH-cropped.png/revision/latest?cb=20231227033316
+28# Darth Plagueis#Red#Muunilinst#Unknown#M#Sith Lord#The Wise#Unknown#Darth Sidious#https://static.wikia.nocookie.net/starwars/images/6/6c/Plagueis-TheAcolyte.png/revision/latest?cb=20240717024135 
+29# Darth Vader#Red#Tatooine#41.9 BBY#M#Sith Lord#The Chosen One#Darth Sidious#None#https://static.wikia.nocookie.net/starwars/images/9/94/Vaderrotj.jpg/revision/latest?cb=20070418231644
+30# Darth Revan#Red#Unknown#3994 BBY#M#Sith Lord#The Revanchist#None#Darth Malak#https://static.wikia.nocookie.net/starwars/images/f/fc/RevanDLotS.jpg/revision/latest?cb=20070311055643
+31# Darth Malak#Red#Quelii#3991 BBY#M#Sith Lord#The Dark Lord#Darth Revan#None#https://static.wikia.nocookie.net/starwars/images/8/89/Malakart-crop.jpg/revision/latest?cb=20080118044508
+32# Darth Nihilus#Red#Unknown#Unknown#M#Sith Lord#The Lord of Hunger#Darth Traya#Visas Marr#https://static.wikia.nocookie.net/starwars/images/9/97/KOTOR2Nihilus.jpg/revision/latest?cb=20071122021511 
+33# Darth Sion#Red#Unknown#Unknown#M#Sith Lord#The Lord of Pain#Darth Traya#None#https://static.wikia.nocookie.net/starwars/images/9/9c/Darthsionheadshot.jpg/revision/latest?cb=20091109051019
+34# Yoda#Green#Unknown#896 BBY#M#Grand Master#The Wise#N'Kata Del Gormo#Luke Skywalker and Count Dooku#https://static.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125
+35# Yaddle#Green#Unknown#509 BBY#F#Master#The Silent Master#Unknown#Jaro Tapal and Cippa Tarko#https://static.wikia.nocookie.net/starwars/images/7/7f/Yaddle-SWCT.png/revision/latest?cb=20241228210308
+
+

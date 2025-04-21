@@ -16,18 +16,25 @@ namespace api
         public void GetAllJedi(){
             StreamReader inFile = new StreamReader("jediData.txt");
             string line = inFile.ReadLine();
-            while(line!= null){
+            while(line != null){
                 string[] temp = line.Split('#');
-                jedis.Add(new Jedi(){JediId = int.Parse(temp[0]), 
-                                    Name = temp[1], 
-                                    LightsaberColor=temp[2], 
-                                    Homeworld=temp[3], 
-                                    Age = int.Parse(temp[4]), 
-                                    Gender=temp[5], 
-                                    Rank = temp[6],
-                                    NickName=temp[7], 
-                                    Master=temp[8], 
-                                    Padawan=temp[9]});
+                if (temp.Length == 11 && int.TryParse(temp[0], out int jediId)) {
+                    jedis.Add(new Jedi(){
+                        JediId = jediId, 
+                        Name = temp[1], 
+                        LightsaberColor = temp[2], 
+                        Homeworld = temp[3], 
+                        Born = temp[4], 
+                        Gender = temp[5], 
+                        Rank = temp[6],
+                        NickName = temp[7], 
+                        Master = temp[8], 
+                        Padawan = temp[9],
+                        CharacterURL = temp[10]
+                    });
+                } else {
+                    Console.WriteLine($"Skipping invalid line: {line}");
+                }
                 line = inFile.ReadLine();
             }
             inFile.Close();

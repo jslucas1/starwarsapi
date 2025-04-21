@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net9.0": {
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
         "type": "package",
         "build": {
@@ -423,34 +423,34 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net9.0": [
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jslucas\\.nuget\\packages\\": {}
+    "C:\\Users\\carol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jslucas\\OneDrive\\Documents\\source\\repos\\caroline\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Documents\\Source\\repos\\mis221\\StarWarsAPI\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\jslucas\\OneDrive\\Documents\\source\\repos\\caroline\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\jslucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jslucas\\OneDrive\\Documents\\source\\repos\\caroline\\api\\obj\\",
+      "projectPath": "C:\\Users\\carol\\OneDrive\\Documents\\Source\\repos\\mis221\\StarWarsAPI\\api.csproj",
+      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carol\\OneDrive\\Documents\\Source\\repos\\mis221\\StarWarsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jslucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -463,11 +463,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -493,7 +494,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
