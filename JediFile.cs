@@ -39,5 +39,11 @@ namespace api
             }
             inFile.Close();
         }
+
+        public void AddJediToFile(Jedi newJedi){
+            StreamWriter outFile = new StreamWriter("jediData.txt", true);
+            outFile.WriteLine(newJedi.ToFile());
+            outFile.Close();
+        }
     }
 }

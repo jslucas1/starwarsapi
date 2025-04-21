@@ -27,8 +27,14 @@ namespace MyApp.Namespace
 
         // POST api/<CharacterController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] Jedi value)
         {
+            System.Console.WriteLine("helloo?");
+            System.Console.WriteLine(value.ToFile());
+            List<Jedi> jedis = new();
+            JediFile fileHandler = new(jedis);
+            fileHandler.AddJediToFile(value);
+            // Method intentionally left blank
         }
 
         // PUT api/<CharacterController>/5

@@ -18,5 +18,9 @@ namespace api
         public string Master {get; set;}
         public string Padawan {get; set;}
         public string CharacterURL {get; set;}
+        public  string ToFile(){
+            return $"{JediId}#{Name}#{LightsaberColor}#{Homeworld}#{Born}#{Gender}#{Rank}#{NickName}#{Master}#{Padawan}#{CharacterURL}";
+        }
+        
     }
 }
